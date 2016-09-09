@@ -1,3 +1,6 @@
+##Warning
+# This is a trivial modification of the MongoDB C++ driver that removes a single flag (--Wall) from a legacy tagged build that we happen to use internally. If you're not working on Ethelo, you almost certainly do not want this fork. You want [the original](//github.com/mongodb/mongo-cxx-driver).
+
 # MongoDB C++ Driver [![Build Status](https://travis-ci.org/mongodb/mongo-cxx-driver.svg?branch=26compat)](https://travis-ci.org/mongodb/mongo-cxx-driver)
 Welcome to the MongoDB C++ Driver!
 

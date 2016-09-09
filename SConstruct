@@ -845,7 +845,6 @@ if nix:
                          "-fno-strict-aliasing",
                          "-ggdb",
                          "-pthread",
-                         "-Wall",
                          "-Wsign-compare",
                          "-Wno-unknown-pragmas",
                          "-Winvalid-pch"] )
